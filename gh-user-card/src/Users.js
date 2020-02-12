@@ -1,6 +1,6 @@
 import React from "react"
 import axios from "axios"
-import UserCard from "./UserCard"
+import UserCard from "./Card"
 
 class Users extends React.Component {
   componentDidMount() {
